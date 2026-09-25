@@ -142,3 +142,5 @@ Animal trajectory data may be used as input into a state space model for modeled
 
 
 ## Data Distribution
+
+Data are distributed to the [ATN Data Portal](https://portal.atn.ioos.us/) then to a variety of locations as appropriate, including NCEI, [IOOS ATN ERDDAP](https://atn.ioos.us/erddap/index.html), NDBC for incorporation into the GTS, OBIS/GBIF, and DataONE.
