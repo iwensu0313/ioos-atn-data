@@ -117,4 +117,17 @@ flowchart TB
 ```
 
 
-More details coming soon on incoming data sources, QC configuration, processing, and data distribution!
+## Incoming Data Sources
+
+The ATN DAC aggregates data from a variety of data sources both manually transferred by data providers or automatically sourced directly from tag manufacturers' API or web server when available. All ATN deployment data requires data providers to confirm release prior to integration into the DAC.  Currently, the ATN DAC pulls data automatically from the following tag manufacturers:
+- [Wildlife Computers](https://wildlifecomputers.com/)
+- [Sea Mammal Research Unit](https://www.smru.st-andrews.ac.uk/index.html)
+- [Woods Hole Group (a CLS North American company)](https://www.woodsholegroup.com/)
+
+Manual data integration pipelines are assessed for automation as data become more easily accessible from different manufacturers.
+
+All ATN data can be viewed on the ATN Data Portal [here](https://portal.atn.ioos.us/?ls=HKwofDkA#map), and deployment data from the past 30-days viewable [here](https://portal.atn.ioos.us/?ls=q2VLkmP-#map).
+
+## Processing
+
+## Data Distribution
